@@ -3,6 +3,7 @@ Eng: This program simulates the behavior of organisms during an epidemic. Carrie
 
 PS Running the program - Main.py. There you can also set the number of organisms of each type (if you do not want to use a certain type, then write 0 there). All other game settings are stored in the Settings.py file.
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 Ru: Эта программа имитирует поведение организмов во время эпидемии. Носители вируса могут заразить здорового человека, врачи - наоборот, вылечить пациента. А военные вообще убивают зараженных, если эпидемия уже дошла до крайней степени.
 
