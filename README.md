@@ -1,4 +1,4 @@
-# War-of-biological-sistems
+# War of biological sistems
 **Eng:** This program simulates the behavior of organisms during an epidemic. Carriers of the virus can infect a healthy person; doctors, on the contrary, can cure a patient. And the military generally kill the infected if the epidemic has already reached an extreme degree.
 
 >PS Running the program - [Main.py](https://github.com/IvanBakanov/War-of-biological-sistems/blob/main/War_of_bio_sistems/Main.py). There you can also set the number of organisms of each type (if you do not want to use a certain type, then write 0 there). All other game settings are stored in the [Settings.py](https://github.com/IvanBakanov/War-of-biological-sistems/blob/main/War_of_bio_sistems/Settings.py) file.
